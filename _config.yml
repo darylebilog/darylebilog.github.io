@@ -1,12 +1,6 @@
 title: Daryle Bilog # your name (or website title) here
 logo: "/images/daryle_profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <div style="text-align: center; font-size: 1.5em; margin-bottom: 10px;">
-    Daryle Bilog
-  </div>
-  <div style="text-align: center;">
-    <img src="{{ site.logo }}" alt="{{ site.title }}" style="display: block; margin: 0 auto;">
-  </div>
   <div style="text-align: center;">
     <a href="https://www.linkedin.com/in/daryle-bilog/">LinkedIn</a> | <a href="/BILOG_DARYLE_RESUME_29_Dec_23.pdf">Resume</a> | <a href="https://github.com/darylebilog">GitHub</a>
   </div>
