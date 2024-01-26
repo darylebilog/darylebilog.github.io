@@ -12,9 +12,6 @@ This is our implementation of our Home Credit Loan Default Risk Forecasting Proj
 
 <center><img src = "images/homeCredit.png"></center>
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
