@@ -6,21 +6,11 @@
 
 ### Home Credit Default Risk Forecasting
 
-This is our implementation of our Home Credit Loan Default Risk Forecasting Project for a Kaggle Competition as part of our first capstone course.
+This represents the implementation of our Home Credit Loan Default Risk Forecasting Project, undertaken as a Kaggle Competition and a pivotal component of our inaugural capstone course. Within the collaborative group, my contributions were focused on identifying optimal indicators to discern the likelihood of default for individuals with minimal or no credit history.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/darylebilog/home-credit-project)
 
 <center><img src = "images/homeCredit.png"></center>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Marketing
 
