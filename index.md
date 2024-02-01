@@ -26,6 +26,17 @@ This project was developed in response to the diverse challenges and inquiries p
 
 ---
 
+### Hotel Reservation System using Python
+<p align = "justify">
+This project entails the creation of a sophisticated hotel reservation system, designed to streamline the booking process. Featuring dynamic pricing for various room types, including premium penthouse suites, the system provides real-time availability tracking and efficient scheduling. Users can seamlessly navigate through diverse pricing options and room types, optimizing their hotel booking experience.
+</p>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/darylebilog/hotelReservation)
+
+<center><img src = "images/ROC CURVE.png"></center>
+
+---
+
 ## Marketing Projects
 
 ### Busania Trading Management Brand Creation
