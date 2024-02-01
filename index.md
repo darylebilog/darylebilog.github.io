@@ -31,7 +31,9 @@ This project was developed in response to the diverse challenges and inquiries p
 This undertaking allowed me to conceptualize the brand identity for a nascent enterprise. Busania Trading Management stands as a venture established with the primary objective of assisting individuals in their trading endeavors and augmenting assets through precise wealth management practices. The methodology employed encompasses the utilization of sophisticated design tools such as Adobe Illustrator and Photoshop.
 </p>
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/darylebilog/analysisReport_MKTG6620)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/darylebilog/busaniaTradingLogo)
+
+<center><img src = "images/BTM_Final_Logo.png"></center>
 
 ---
 
