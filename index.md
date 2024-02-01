@@ -22,15 +22,16 @@ This project was developed in response to the diverse challenges and inquiries p
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/darylebilog/analysisReport_MKTG6620)
 
 <center><img src = "images/ROC CURVE.png"></center>
+---
 
+## Marketing Projects
 
-### Marketing
+### Busania Trading Management Brand Creation
+<p align = "justify">
+This undertaking allowed me to conceptualize the brand identity for a nascent enterprise. Busania Trading Management stands as a venture established with the primary objective of assisting individuals in their trading endeavors and augmenting assets through precise wealth management practices. The methodology employed encompasses the utilization of sophisticated design tools such as Adobe Illustrator and Photoshop.
+</p>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/darylebilog/analysisReport_MKTG6620)
 
 ---
 
@@ -38,5 +39,4 @@ This project was developed in response to the diverse challenges and inquiries p
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<center>© 2024 Daryle Bilog. Powered by Jekyll and the Minimal Theme.</center>
