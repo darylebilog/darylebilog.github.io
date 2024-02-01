@@ -33,7 +33,7 @@ This project entails the creation of a sophisticated hotel reservation system, d
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/darylebilog/hotelReservation)
 
-<center><img src = "images/ROC CURVE.png"></center>
+<center><img src = "images/hotel_Reservation.png"></center>
 
 ---
 
