@@ -1,6 +1,8 @@
 title: <p align = "center"> Daryle Bilog </p>
 
-logo: "/images/daryle_profile.png?raw=true"
+logo: <div style="text-align: center;">
+      <img src="/images/daryle_profile.png?raw=true" alt="Daryle Bilog" style="max-width: 150px; height: auto;">
+      </div>
 
 description:
   <p align="center">
