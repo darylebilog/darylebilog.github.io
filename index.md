@@ -70,7 +70,7 @@ The List Builder Challenge is a simple, interactive web-based game where multipl
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/darylebilog/ListBuilderChallenge)
 
-<center><img src = "images/PhilippineExpenditureDashboard.png"></center>
+<center><img src = "images/ListBuilderChallenge.png"></center>
 
 
 
