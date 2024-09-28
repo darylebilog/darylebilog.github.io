@@ -2,24 +2,11 @@
 
 ---
 
-## Interactive Games
-
-### List Builder Challenge (Still Developing)
-<p align = "justify">
-The List Builder Challenge is a simple, interactive web-based game where multiple players add unique items to a list based on a chosen category (e.g., fruits or countries). Developed using HTML, CSS, and JavaScript, the game ensures fairness by hiding each player's input from others. If a player repeats an item already added by another, they are eliminated, and the game continues until only one player remains, who is declared the winner. The game logic and turn-based mechanics make it an engaging challenge for friends or groups, and it is hosted through GitHub Pages for easy access and sharing. To access the game directly, <a href="https://darylebilog.github.io/ListBuilderChallenge">click this link</a>.
-</p>
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/darylebilog/ListBuilderChallenge)
-
-<center><img src = "images/PhilippineExpenditureDashboard.png"></center>
-
----
-
 ## Data Analysis
 
 ### Philippine Household Income and Expenditure Analysis Dashboard
 <p align = "justify">
-This project provides a detailed analysis of Philippine household income and expenditure using Tableau visualizations. It highlights regional disparities across Luzon, Visayas, and Mindanao in terms of income, housing size, and spending patterns. The dashboard offers valuable insights into how households allocate their income and the socioeconomic challenges faced by each region.
+This project provides a detailed analysis of Philippine household income and expenditure using Tableau visualizations. It highlights regional disparities across Luzon, Visayas, and Mindanao regarding income, housing size, and spending patterns. The dashboard offers valuable insights into how households allocate their income and the socioeconomic challenges each region faces.
 </p>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/darylebilog/PhilippineTableauPersonalProject)
@@ -74,6 +61,16 @@ This undertaking allowed me to conceptualize the brand identity for a nascent en
 
 ---
 
+## Interactive Games
+
+### List Builder Challenge (Still Developing)
+<p align = "justify">
+The List Builder Challenge is a simple, interactive web-based game where multiple players add unique items to a list based on a chosen category (e.g., fruits or countries). Developed using HTML, CSS, and JavaScript, the game ensures fairness by hiding each player's input from others. If a player repeats an item already added by another, they are eliminated, and the game continues until only one player remains, who is declared the winner. The game logic and turn-based mechanics make it an engaging challenge for friends or groups, and it is hosted through GitHub Pages for easy access and sharing. To access the game directly, <a href="https://darylebilog.github.io/ListBuilderChallenge">click this link</a>.
+</p>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/darylebilog/ListBuilderChallenge)
+
+<center><img src = "images/PhilippineExpenditureDashboard.png"></center>
 
 
 
