@@ -9,7 +9,7 @@
 The List Builder Challenge is a simple, interactive web-based game where multiple players add unique items to a list based on a chosen category (e.g., fruits or countries). Developed using HTML, CSS, and JavaScript, the game ensures fairness by hiding each player's input from others. If a player repeats an item already added by another, they are eliminated, and the game continues until only one player remains, who is declared the winner. The game logic and turn-based mechanics make it an engaging challenge for friends or groups, and it is hosted through GitHub Pages for easy access and sharing.
 </p>
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/darylebilog/ListBuilderGame)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/darylebilog/ListBuilderChallenge)
 
 <center><img src = "images/PhilippineExpenditureDashboard.png"></center>
 
