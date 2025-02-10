@@ -4,6 +4,17 @@
 
 ## Data Analysis
 
+### Spotify Listening Trend Analysis
+<p align = "justify">
+This project focuses on analyzing the user's historical listening data from Spotify to identify patterns and predict future listening behavior. By examining trends in music preferences over time, the goal is to gain insights into how the user's listening habits have evolved and leverage this information to forecast future listening trends. The analysis combines exploratory data analysis (EDA) with predictive modeling techniques, enabling a comprehensive understanding of listening behavior and the creation of a model capable of predicting future trends.
+</p>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/darylebilog/SpotifyListeningTrend)
+
+<center><img src = "images/SpotifyDarylePattern.png"></center>
+
+---
+
 ### Philippine Household Income and Expenditure Analysis Dashboard
 <p align = "justify">
 This project provides a detailed analysis of Philippine household income and expenditure using Tableau visualizations. It highlights regional disparities across Luzon, Visayas, and Mindanao regarding income, housing size, and spending patterns. The dashboard offers valuable insights into how households allocate their income and the socioeconomic challenges each region faces.
